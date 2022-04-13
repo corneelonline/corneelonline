@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Marco from @corneelonline
+- 👀 I’m interested in web development with Vue/Nuxt and JAMstack.
+- 🌱 I’m currently learning fullstack development with Nuxt and Laravel.
+- 💞️ I’m looking to collaborate on projects as a freelancer where Nuxt is used for building apps.
+- 📫 You can reach me at marco@corneelonline.nl or take a look at [my company website](https://www.corneelonline.nl). It's in the dutch language, but you'll get the idea ;)
